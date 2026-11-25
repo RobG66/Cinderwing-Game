@@ -10,6 +10,11 @@
   <a href="https://github.com/RobG66/Cinderwing-Game/releases">All releases</a> &nbsp;·&nbsp; <a href="CHANGELOG.md">Changelog</a>
 </p>
 
+<p align="center">
+  Cinderwing is free. If you enjoy it, you can support development on<br>
+  <a href="https://ko-fi.com/robg66"><b>Ko-fi</b></a> &nbsp;·&nbsp; <a href="https://paypal.me/RGanshorn"><b>PayPal</b></a> &nbsp;·&nbsp; <a href="https://github.com/sponsors/RobG66"><b>GitHub Sponsors</b></a>
+</p>
+
 Cinderwing is an old-school formation shooter. Squadrons line up, then peel off and dive at you in groups. Hit a ship and it smokes, catches fire or spins out. Blow one up next to its wingmates and the blast can take them with it. Flying close is dangerous, but it scores more.
 
 <p align="center">
@@ -37,7 +42,3 @@ Grab the package for your system from the [latest release](https://github.com/Ro
 | **Linux** | `linux-x64` .tar.gz | Extract it and run `./Cinderwing` |
 
 Move with **A / D** or the arrow keys, fire with **Space**, pause with **P** or **Esc**. Keyboard and controller can be remapped under **Options → Controls**. Fullscreen, windowed and a rotated portrait mode are in **Options** too. Settings and high scores are saved next to the game.
-
-### Support
-
-Cinderwing is free. If you'd like to chip in: [Ko-fi](https://ko-fi.com/robg66) · [PayPal](https://paypal.me/RGanshorn) · [GitHub Sponsors](https://github.com/sponsors/RobG66)
