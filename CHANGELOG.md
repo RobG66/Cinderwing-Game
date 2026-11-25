@@ -1,5 +1,9 @@
 # Cinderwing changelog
 
+## 1.7
+
+- Performance fix for damage modelling.
+
 ## 1.6
 
 - Added an in-game scoring guide with enemy values, danger bonuses, chain reactions, and extra-ship thresholds.
