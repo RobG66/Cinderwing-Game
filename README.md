@@ -1,44 +1,43 @@
-<picture>
-  <img src="media/cinderwing-banner.jpg" width="1280" alt="Cinderwing logo between a blue nebula and a crashed fighter on an orange world">
-</picture>
-
-<h1 align="center">Cinderwing</h1>
-
-<p align="center">A vertical arcade space shooter with diving squadrons, carrier battles, and asteroid fields that can turn a run around.</p>
-
 <p align="center">
-  <a href="https://github.com/RobG66/Cinderwing-Game/releases/latest"><img alt="Download the latest release" src="https://img.shields.io/badge/Download-Latest%20release-D84F24?style=for-the-badge&logo=github&logoColor=white"></a>
+  <img src="media/cinderwing-banner.jpg" width="1280" alt="Cinderwing">
 </p>
 
-<p align="center">Windows x64 · Linux x64<br><a href="https://github.com/RobG66/Cinderwing-Game/releases">All releases</a> · <a href="CHANGELOG.md">Changelog</a></p>
-
-## In flight
-
 <p align="center">
-  <a href="media/fleet.jpg"><img src="media/fleet.jpg" width="31%" alt="Enemy squadrons trading fire with the player fighter"></a>
-  <a href="media/carrier.jpg"><img src="media/carrier.jpg" width="31%" alt="A carrier under fire with its escorts in the playfield"></a>
-  <a href="media/asteroids.jpg"><img src="media/asteroids.jpg" width="31%" alt="The player fighter weaving through a field of asteroids"></a>
+  <a href="https://github.com/RobG66/Cinderwing-Game/releases/latest"><img src="media/download.png" width="560" alt="Start new game: download the latest release for Windows or Linux"></a>
 </p>
 
-## Features
+<p align="center">
+  <a href="https://github.com/RobG66/Cinderwing-Game/releases">All releases</a> &nbsp;·&nbsp; <a href="CHANGELOG.md">Changelog</a>
+</p>
 
-- **Read the enemy.** Fighters break formation, dive in groups, and bank out of attack runs. Elite pilots and specialty ships bring their own patterns, from Reaper's capture attacks to Gunwing's gun runs.
-- **Take on three carriers.** Battle the Space Carrier, Siege Ark, and Brood Carrier as you push into later star systems.
-- **Use the hazards.** Black holes pull ships off course, nebulae change combat conditions, and explosive asteroids can set off chain reactions.
-- **Chase a higher score.** Pick from three player ships, earn an extra ship every 50,000 points, and unlock three New Game+ tiers by clearing waves 10, 20, and 30.
-- **Controls and display.** Remap keyboard and controller inputs, switch between windowed and fullscreen, or rotate the playfield 90° for a portrait monitor.
+Cinderwing is an old-school formation shooter. Squadrons line up, then peel off and dive at you in groups. Hit a ship and it smokes, catches fire or spins out. Blow one up next to its wingmates and the blast can take them with it. Flying close is dangerous, but it scores more.
 
-## Download and play
+<p align="center">
+  <img src="media/gameplay.jpg" width="100%" alt="Three gameplay screenshots: an opening wave over a burning star, the Brood Carrier with its escort formation, and an asteroid field at wave 30">
+</p>
 
-Open the [latest release](https://github.com/RobG66/Cinderwing-Game/releases/latest) and choose the package under **Assets**.
+<p align="center">
+  <img src="media/enemies.jpg" width="100%" alt="Enemy ships: Ember, Wasp, Hunter, Swoop, Banshee, Gunwing, Dreadwing and Reaper">
+</p>
 
-| Platform | Package | Start the game |
+### What you're up against
+
+- Three carriers: the Space Carrier, the Siege Ark and the Brood Carrier.
+- Black holes that drag ships off course, nebulae that change how a fight plays, and asteroid fields with explosive rocks.
+- Danger bonuses for flying close, and extra points when wrecks take out their neighbours.
+- Three player ships, an extra ship every 50,000 points, and New Game+ tiers unlocked at waves 10, 20 and 30.
+
+### Playing
+
+Grab the package for your system from the [latest release](https://github.com/RobG66/Cinderwing-Game/releases/latest) under **Assets**. Nothing to install.
+
+| | Package | To start |
 | --- | --- | --- |
-| Windows x64 | `win-x64` ZIP | Extract the archive and open `Cinderwing.exe`. |
-| Linux x64 | `linux-x64` TAR.GZ | Extract the archive, open a terminal in that folder, and run `./Cinderwing`. |
+| **Windows** | `win-x64` .zip | Extract it and run `Cinderwing.exe` |
+| **Linux** | `linux-x64` .tar.gz | Extract it and run `./Cinderwing` |
 
-The packages are portable and include the game runtime. Settings and high scores are saved beside the executable. The keyboard defaults are **A / D** or **← / →** to move, **Space** to fire, and **P** or **Esc** to pause. Change bindings under **Options → Controls**.
+Move with **A / D** or the arrow keys, fire with **Space**, pause with **P** or **Esc**. Keyboard and controller can be remapped under **Options → Controls**. Fullscreen, windowed and a rotated portrait mode are in **Options** too. Settings and high scores are saved next to the game.
 
-## Support Cinderwing
+### Support
 
-If you enjoy the game and want to support future development, you can donate through [PayPal](https://paypal.me/RGanshorn), [Ko-fi](https://ko-fi.com/robg66), or [GitHub Sponsors](https://github.com/sponsors/RobG66).
+Cinderwing is free. If you'd like to chip in: [Ko-fi](https://ko-fi.com/robg66) · [PayPal](https://paypal.me/RGanshorn) · [GitHub Sponsors](https://github.com/sponsors/RobG66)
